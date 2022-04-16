@@ -68,6 +68,7 @@ footer {
     padding-left: 10px;
     padding-bottom: 10px;
     padding-right: 10px;
+    margin-top: 50px;
 }
 .footerr {
     padding-bottom: 0px;
@@ -80,4 +81,24 @@ footer {
     margin-top: 0px;
     color: black;
     background-color: white;
+}
+table {
+    border: 2px solid #A60400;
+    padding-bottom: 0px;
+}
+td{
+    border: 2px solid #A60400;
+}
+tr {
+    border: 2px solid #A60400;
+}
+.cl {
+    background-color: rosybrown;
+}
+.cll {
+        background-color: rosybrown;
+
+}
+caption {
+    margin-bottom: 20px;
 }
